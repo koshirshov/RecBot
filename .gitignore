@@ -1,0 +1,12 @@
+.python-version
+/vendor/
+.idea/
+__pycache__
+.ipynb_checkpoints
+*.png
+*.xml
+*.jpg
+*.gz
+*.mat
+*.zip
+*.pkl
