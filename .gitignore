@@ -10,3 +10,4 @@ __pycache__
 *.mat
 *.zip
 *.pkl
+data/*
